@@ -1,4 +1,4 @@
-# Comprehensive Analytical Explanation of MP3 Player and Playlist Code
+# MP3 Player https://ymnoi.gr/mp3player
 
 This document provides a detailed breakdown of a web-based MP3 player and playlist manager designed for a Christian hymn site. The system allows users to interact with a list of hymns, search, filter, and add them to a playlist, while controlling playback.
 
