@@ -1,6 +1,6 @@
-# MP3 Player https://ymnoi.gr/mp3player
+# MP3 Player
 
-This document provides a detailed breakdown of a web-based MP3 player and playlist manager designed for a Christian hymn site. The system allows users to interact with a list of hymns, search, filter, and add them to a playlist, while controlling playback.
+This document provides a detailed breakdown of a web-based MP3 player and playlist manager designed for a Christian hymn site **https://ymnoi.gr/mp3player**. The system allows users to interact with a list of hymns, search, filter, and add them to a playlist, while controlling playback.
 
 ## 1. Player Controls
 
